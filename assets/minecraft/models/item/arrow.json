@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/arrow"
   },
   "overrides": [
-      { "predicate": {"custom_model_data": 10 }, "model" : "man10/tool/copper/copper_arrow"}
+      { "predicate": {"custom_model_data": 10 }, "model" : "kuroinu/tool/copper/copper_arrow"}
   ]
 }
