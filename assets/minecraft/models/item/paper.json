@@ -1,0 +1,26 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/paper"
+    },
+    "overrides": [
+      
+      {"predicate": {"custom_model_data":1}, "model": "man10/currency/cheque"},
+      {"predicate": {"custom_model_data":2}, "model": "man10/currency/debtbill"},
+      {"predicate": {"custom_model_data":3}, "model": "man10/food/bread_pattern"},
+      {"predicate": {"custom_model_data":4}, "model": "man10/food/dough_filled_molds"},
+      {"predicate": {"custom_model_data":5}, "model": "man10/food/suribachi"},
+      {"predicate": {"custom_model_data":6}, "model": "man10/food/grating"},
+      {"predicate": {"custom_model_data":7}, "model": "man10/food/kitchen_knife"},
+      {"predicate": {"custom_model_data":8}, "model": "man10/food/pickle_jar"},
+      {"predicate": {"custom_model_data":9}, "model": "man10/currency/cobblestone_ticket"},
+      {"predicate": {"custom_model_data":10}, "model": "man10/currency/netherrack_ticket"},
+      {"predicate": {"custom_model_data":11}, "model": "man10/currency/deepslate_ticket"},
+      {"predicate": {"custom_model_data":12}, "model": "man10/food/maron_mlpha"},
+      {"predicate": {"custom_model_data":13}, "model": "man10/food/bond"},
+      {"predicate": {"custom_model_data":14}, "model": "man10/currency/nengajo/nengajo_rabbit"},
+      {"predicate": {"custom_model_data":15}, "model": "man10/currency/omikuji"},
+
+      {"predicate": {"custom_model_data":16}, "model": "item/paper"}
+    ]
+}

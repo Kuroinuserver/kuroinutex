@@ -1,0 +1,37 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/golden_carrot"
+    },
+    "overrides": [
+	{ "predicate": {"custom_model_data":1}, "model": "man10/food/butter_toast"},
+	{ "predicate": {"custom_model_data":2}, "model": "man10/food/apple_toast"},
+	{ "predicate": {"custom_model_data":3}, "model": "man10/food/grape_toast"},
+	{ "predicate": {"custom_model_data":4}, "model": "man10/food/lime_toast"},
+	{ "predicate": {"custom_model_data":5}, "model": "man10/food/mandarin_toast"},
+	{ "predicate": {"custom_model_data":6}, "model": "man10/food/pear_toast"},
+	{ "predicate": {"custom_model_data":7}, "model": "man10/food/pizza_toast"},
+	{ "predicate": {"custom_model_data":8}, "model": "man10/food/assorted_sweets"},
+	{ "predicate": {"custom_model_data":9}, "model": "man10/food/halloween_lollipop"},
+	{ "predicate": {"custom_model_data":10}, "model": "man10/food/pumpkin_pie"},
+	{ "predicate": {"custom_model_data":11}, "model": "man10/food/french_fries"},
+    { "predicate": {"custom_model_data":12}, "model": "man10/food/banana_toast"},
+	{ "predicate": {"custom_model_data":13}, "model": "man10/food/chestnut_toast"},
+	{ "predicate": {"custom_model_data":14}, "model": "man10/food/dorian_toast"},
+	{ "predicate": {"custom_model_data":15}, "model": "man10/food/mango_toast"},
+	{ "predicate": {"custom_model_data":16}, "model": "man10/food/palm_fruit_toast"},
+	{ "predicate": {"custom_model_data":17}, "model": "man10/food/peach_toast"},
+	{ "predicate": {"custom_model_data":18}, "model": "man10/food/persimmon_toast"},
+	{ "predicate": {"custom_model_data":19}, "model": "man10/food/pulm_toast"},
+	{ "predicate": {"custom_model_data":19}, "model": "man10/food/oden"},
+	{ "predicate": {"custom_model_data":20}, "model": "man10/food/shizuoka_oden"},
+	{ "predicate": {"custom_model_data":21}, "model": "man10/food/croquette"},
+	{ "predicate": {"custom_model_data":22}, "model": "man10/food/cream_croquette"},
+	{ "predicate": {"custom_model_data":23}, "model": "man10/food/crab_cream_croquette"},
+	{ "predicate": {"custom_model_data":24}, "model": "man10/food/omelette"},
+	{ "predicate": {"custom_model_data":25}, "model": "man10/food/christmas_pudding"},
+	{ "predicate": {"custom_model_data":26}, "model": "man10/food/mini_kagamimochi"},
+
+	{ "predicate": {"custom_model_data":27}, "model": "item/golden_carrot"}
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/golden_shovel"
+    },
+    "overrides": [
+		
+		{"predicate": {"custom_model_data":1}, "model": "man10/vehicle/bicycle"},	
+		{"predicate": {"custom_model_data":2}, "model": "man10/vehicle/chiron"},	
+		{"predicate": {"custom_model_data":3}, "model": "man10/vehicle/camaro"},	
+    {"predicate": {"custom_model_data":4}, "model": "man10/vehicle/f12"},
+    {"predicate": {"custom_model_data":5}, "model": "man10/vehicle/battista"},
+    {"predicate": {"custom_model_data":6}, "model": "man10/vehicle/cybertruck"},
+    {"predicate": {"custom_model_data":7}, "model": "man10/vehicle/food_truck"},
+    {"predicate": {"custom_model_data":8}, "model": "man10/vehicle/tram"},
+    {"predicate": {"custom_model_data":9}, "model": "man10/vehicle/old_tram"},
+    {"predicate": {"custom_model_data":10}, "model": "man10/vehicle/riding_drone"},
+    {"predicate": {"custom_model_data":11}, "model": "man10/vehicle/mavicpro"},
+    {"predicate": {"custom_model_data":12}, "model": "man10/vehicle/tractor"},
+    {"predicate": {"custom_model_data":13}, "model": "man10/vehicle/farmdrone"},
+
+		{"predicate": {"custom_model_data":14}, "model": "item/golden_shovel"}
+    ]
+}
