@@ -1,0 +1,27 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/oak_sapling"
+    },
+    "overrides": [
+     { "predicate": {"custom_model_data":1}, "model": "man10/virtualblock/brick"},
+     { "predicate": {"custom_model_data":2}, "model": "man10/virtualblock/luckyblock"},
+     { "predicate": {"custom_model_data":3}, "model": "man10/virtualblock/rainbow_block"},
+     { "predicate": {"custom_model_data":4}, "model": "man10/virtualblock/dummy_dirt"},
+     { "predicate": {"custom_model_data":5}, "model": "man10/virtualblock/dummy_oak_planks"},
+     { "predicate": {"custom_model_data":6}, "model": "man10/virtualblock/wooded_box_dummy"},
+     { "predicate": {"custom_model_data":7}, "model": "man10/virtualblock/dummy_snow_block"},
+     { "predicate": {"custom_model_data":8}, "model": "man10/virtualblock/wool_colored_red_small"},
+     { "predicate": {"custom_model_data":9}, "model": "man10/virtualblock/wool_colored_black_small"},
+     { "predicate": {"custom_model_data":10}, "model": "man10/virtualblock/emerald_block_small"},
+
+     { "predicate": {"custom_model_data":11}, "model": "man10/virtualblock/yellow_gradation"},
+     { "predicate": {"custom_model_data":12}, "model": "man10/virtualblock/light_blue_gradation"},
+     {"predicate": {"custom_model_data":13}, "model": "item/barrier"},
+     { "predicate": {"custom_model_data":14}, "model": "man10/virtualblock/invisible_block"},
+     { "predicate": {"custom_model_data":15}, "model": "man10/virtualblock/greenback"},
+
+
+     {"predicate": {"custom_model_data":16}, "model": "item/oak_sapling"}
+    ]
+}

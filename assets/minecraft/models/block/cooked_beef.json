@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cooked_beef"
+    },
+    "overrides": [
+	{ "predicate": {"custom_model_data":1}, "model": "man10/food/beef_hamburg"},
+	{ "predicate": {"custom_model_data":2}, "model": "man10/food/cooked_beef_sausage"},
+	{ "predicate": {"custom_model_data":3}, "model": "man10/food/beef_sandwich"},
+	{ "predicate": {"custom_model_data":4}, "model": "man10/food/hot_dog"},
+    { "predicate": {"custom_model_data":5}, "model": "man10/food/hamburger"},
+    { "predicate": {"custom_model_data":6}, "model": "man10/food/sukiyaki"},
+    { "predicate": {"custom_model_data":7}, "model": "man10/food/roast_beef"},
+    { "predicate": {"custom_model_data":8}, "model": "man10/food/beef_bowl"},
+
+	{ "predicate": {"custom_model_data":9}, "model": "item/cooked_beef"}
+    ]
+}
