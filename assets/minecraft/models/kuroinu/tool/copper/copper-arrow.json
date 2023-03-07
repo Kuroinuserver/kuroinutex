@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "kuroinu/tool/copper/copper_arrow"
+  }
+}
