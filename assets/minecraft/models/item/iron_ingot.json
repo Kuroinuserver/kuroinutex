@@ -1,0 +1,47 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/iron_ingot"
+    },
+    "overrides": [
+		
+		{"predicate": {"custom_model_data":1}, "model": "man10/currency/m100"},
+        {"predicate": {"custom_model_data":2}, "model": "man10/currency/silvercoin"},
+        {"predicate": {"custom_model_data":3}, "model": "man10/currency/silvercoin_mini"},
+        {"predicate": {"custom_model_data":4}, "model": "man10/currency/medal_of_honor"},
+        {"predicate": {"custom_model_data":5}, "model": "man10/currency/coppercoin_mini"},
+        {"predicate": {"custom_model_data":6}, "model": "man10/currency/rainbowcoin"},
+
+        {"predicate": {"custom_model_data":7}, "model": "man10/currency/anniversary_coin/mfc_anniversary_coin"},
+        {"predicate": {"custom_model_data":8}, "model": "man10/currency/anniversary_coin/mfc_anniversary_coin_special"},
+        {"predicate": {"custom_model_data":9}, "model": "man10/currency/anniversary_coin/basket_coin"},
+        {"predicate": {"custom_model_data":10}, "model": "man10/currency/anniversary_coin/basket_coin_special"},
+        {"predicate": {"custom_model_data":11}, "model": "man10/currency/anniversary_coin/newspaper_coin"},
+        {"predicate": {"custom_model_data":12}, "model": "man10/currency/anniversary_coin/newspaper_coin_special"},
+        {"predicate": {"custom_model_data":13}, "model": "man10/currency/mfc_mini"},
+        {"predicate": {"custom_model_data":14}, "model": "man10/currency/anniversary_coin/200_coin"},
+        {"predicate": {"custom_model_data":15}, "model": "man10/currency/anniversary_coin/200_coin_special"},
+        {"predicate": {"custom_model_data":16}, "model": "man10/currency/anniversary_coin/trophy_coin"},
+        {"predicate": {"custom_model_data":17}, "model": "man10/currency/anniversary_coin/trophy_coin_special"},
+        {"predicate": {"custom_model_data":18}, "model": "man10/currency/anniversary_coin/potion_coin"},
+        {"predicate": {"custom_model_data":19}, "model": "man10/currency/anniversary_coin/potion_coin_special"},
+        {"predicate": {"custom_model_data":20}, "model": "man10/currency/anniversary_coin/10k_coin"},
+        {"predicate": {"custom_model_data":21}, "model": "man10/currency/anniversary_coin/10k_coin_special"},
+        {"predicate": {"custom_model_data":22}, "model": "man10/currency/anniversary_coin/raid_ruins"},
+        {"predicate": {"custom_model_data":23}, "model": "man10/currency/anniversary_coin/raid_ruins_special"},
+        {"predicate": {"custom_model_data":24}, "model": "man10/currency/anniversary_coin/100m_coin"},
+        {"predicate": {"custom_model_data":25}, "model": "man10/currency/anniversary_coin/christmas_coin"},
+        {"predicate": {"custom_model_data":26}, "model": "man10/currency/anniversary_coin/christmas_coin_special"},
+        {"predicate": {"custom_model_data":27}, "model": "man10/currency/anniversary_coin/new_year_coin"},
+        {"predicate": {"custom_model_data":28}, "model": "man10/currency/anniversary_coin/new_year_coin_special"},
+        {"predicate": {"custom_model_data":29}, "model": "man10/currency/shimacoin"},
+        {"predicate": {"custom_model_data":30}, "model": "man10/currency/old_coins/s1_gold_1"},
+        {"predicate": {"custom_model_data":31}, "model": "man10/currency/old_coins/s1_gold_man10"},
+        {"predicate": {"custom_model_data":32}, "model": "man10/currency/old_coins/s1_1000"},
+        {"predicate": {"custom_model_data":33}, "model": "man10/currency/youtube_coin"},
+        {"predicate": {"custom_model_data":34}, "model": "man10/currency/anniversary_coin/double_coin"},
+
+
+        {"predicate": {"custom_model_data":35}, "model": "item/iron_ingot"}
+    ]
+}
