@@ -3,18 +3,18 @@
 	"parent": "test",
 	"texture_size": [4, 4],
 	"textures": {
-		"2": "man10/food/sakuramoti/2",
-		"4": "man10/food/sakuramoti/4",
-		"6": "man10/food/sakuramoti/6",
-		"8": "man10/food/sakuramoti/8",
-		"9": "man10/food/sakuramoti/9",
-		"10": "man10/food/sakuramoti/10",
-		"11": "man10/food/sakuramoti/11",
-		"12": "man10/food/sakuramoti/12",
-		"18": "man10/food/sakuramoti/18",
-		"19": "man10/food/sakuramoti/19",
-		"20": "man10/food/sakuramoti/20",
-		"particle": "man10/food/sakuramoti/3"
+		"2": "kuroinu/food/sakuramoti/2",
+		"4": "kuroinu/food/sakuramoti/4",
+		"6": "kuroinu/food/sakuramoti/6",
+		"8": "kuroinu/food/sakuramoti/8",
+		"9": "kuroinu/food/sakuramoti/9",
+		"10": "kuroinu/food/sakuramoti/10",
+		"11": "kuroinu/food/sakuramoti/11",
+		"12": "kuroinu/food/sakuramoti/12",
+		"18": "kuroinu/food/sakuramoti/18",
+		"19": "kuroinu/food/sakuramoti/19",
+		"20": "kuroinu/food/sakuramoti/20",
+		"particle": "kuroinu/food/sakuramoti/3"
 	},
 	"elements": [
 		{
