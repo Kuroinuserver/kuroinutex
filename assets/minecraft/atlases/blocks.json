@@ -25,8 +25,33 @@
         },
         {
             "type": "directory",
-            "source": "man10",
-            "prefix": "man10/"
+            "source": "kuroinu",
+            "prefix": "kuroinu/"
+        },
+        {
+            "type": "directory",
+            "source": "entity",
+            "prefix": "entity/"
+        },
+        {
+            "type": "directory",
+            "source": "font",
+            "prefix": "font/"
+        },
+        {
+            "type": "directory",
+            "source": "painting",
+            "prefix": "painting/"
+        },
+        {
+            "type": "directory",
+            "source": "misc",
+            "prefix": "misc/"
+        },
+        {
+            "type": "directory",
+            "source": "gui",
+            "prefix": "gui/"
         }
     ]
 }
