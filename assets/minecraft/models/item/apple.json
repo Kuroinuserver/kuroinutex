@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "man10/equipment/cherry_dwarf/cherry_dwarf_1",
-		"1": "man10/equipment/cherry_dwarf/cherry_dwarf_2",
-		"3": "man10/equipment/cherry_dwarf/cherry_dwarf_3",
-		"4": "man10/equipment/cherry_dwarf/cherry_dwarf_4",
-		"particle": "man10/equipment/cherry_dwarf/cherry_dwarf_1"
+		"0": "kuroinu/equipment/cherry_dwarf/cherry_dwarf_1",
+		"1": "kuroinu/equipment/cherry_dwarf/cherry_dwarf_2",
+		"3": "kuroinu/equipment/cherry_dwarf/cherry_dwarf_3",
+		"4": "kuroinu/equipment/cherry_dwarf/cherry_dwarf_4",
+		"particle": "kuroinu/equipment/cherry_dwarf/cherry_dwarf_1"
 	},
 	"elements": [
 		{
