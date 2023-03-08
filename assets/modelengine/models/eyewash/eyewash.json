@@ -3,9 +3,9 @@
 	"texture_size": [8, 8],
 	"textures": {
 		"0": "block/glass",
-		"1": "man10/common/whitesmoke",
-		"2": "man10/common/lightskyblue",
-		"3": "man10/equipment/eyewash/texture",
+		"1": "kuroinu/common/whitesmoke",
+		"2": "kuroinu/common/lightskyblue",
+		"3": "kuroinu/equipment/eyewash/texture",
 		"particle": "block/glass"
 	},
 	"elements": [
