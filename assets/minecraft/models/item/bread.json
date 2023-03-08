@@ -15,7 +15,7 @@
     	{ "predicate": {"custom_model_data":9}, "model": "kuroinu/food/white_bread"},
     	{ "predicate": {"custom_model_data":10}, "model": "kuroinu/food/a_loaf_of_white_bread"},
     	{ "predicate": {"custom_model_data":11}, "model": "kuroinu/food/baked_chocolate_cornet"},
-    	{ "predicate": {"custom_model_data":12}, "model": "kuroinu/food/toast_bread"},
+    	{ "predicate": {"custom_model_data":12}, "model": "kuroinu/food/cherry_dwarf"},
 		{ "predicate": {"custom_model_data":13}, "model": "kuroinu/food/strawberry.daihuku"},
     	{ "predicate": {"custom_model_data":14}, "model": "kuroinu/food/sakuramoti"},
 	{ "predicate": {"custom_model_data":15}, "model": "kuroinu/food/lemon"},
