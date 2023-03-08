@@ -1,0 +1,24 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/bread"
+    },
+    "overrides": [
+    	{ "predicate": {"custom_model_data":1}, "model": "kuroinu/food/baguette"},
+    	{ "predicate": {"custom_model_data":2}, "model": "kuroinu/food/chocolate_cornet"},
+    	{ "predicate": {"custom_model_data":3}, "model": "kuroinu/food/coppe_bread"},
+    	{ "predicate": {"custom_model_data":4}, "model": "kuroinu/food/croissant"},
+    	{ "predicate": {"custom_model_data":5}, "model": "kuroinu/food/doughnut"},
+    	{ "predicate": {"custom_model_data":6}, "model": "kuroinu/food/hot_dog"},
+    	{ "predicate": {"custom_model_data":7}, "model": "kuroinu/food/melon_bread"},
+    	{ "predicate": {"custom_model_data":8}, "model": "kuroinu/food/pizza_bread"},
+    	{ "predicate": {"custom_model_data":9}, "model": "kuroinu/food/white_bread"},
+    	{ "predicate": {"custom_model_data":10}, "model": "kuroinu/food/a_loaf_of_white_bread"},
+    	{ "predicate": {"custom_model_data":11}, "model": "kuroinu/food/baked_chocolate_cornet"},
+    	{ "predicate": {"custom_model_data":12}, "model": "kuroinu/food/toast_bread"},
+		{ "predicate": {"custom_model_data":13}, "model": "kuroinu/food/sliced_bun"},
+    	{ "predicate": {"custom_model_data":14}, "model": "kuroinu/food/bun"},
+
+    	{ "predicate": {"custom_model_data":15}, "model": "item/bread"}
+    ]
+}
