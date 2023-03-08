@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/light_blue_glazed_terracotta"
   },
   "overrides": [
-      { "predicate": {"custom_model_data": 1 }, "model" : "kuroinu/ore/diamondcore"}
+      { "predicate": {"custom_model_data": 1 }, "model" : "kuroinu/ore/diamondcore"},
+    
+    	{ "predicate": {"custom_model_data": 2 }, "model": "item/light_blue_glazed_terracotta"}
   ]
 }
