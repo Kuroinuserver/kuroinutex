@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "kuroinu/green_onion",
-		"1": "block/negi1",
-		"2": "block/negi2",
+		"1": "block/texture1",
+		"2": "block/texture2",
 		"particle": "green_onion"
 	},
 	"elements": [
