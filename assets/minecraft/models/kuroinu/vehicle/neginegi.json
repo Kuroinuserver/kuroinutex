@@ -4,7 +4,7 @@
 		"0": "kuroinu/green_onion",
 		"1": "block/texture1",
 		"2": "block/texture2",
-		"particle": "green_onion"
+		"particle": "kuroinu/green_onion"
 	},
 	"elements": [
 		{
