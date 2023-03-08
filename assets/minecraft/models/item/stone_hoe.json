@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/stone_hoe"
+    },
+    "overrides": [
+		
+		{"predicate": {"custom_model_data":1}, "model": "kuroinu/currency/m1m"},
+        {"predicate": {"custom_model_data":2}, "model": "item/stone_hoe"},
+        {"predicate": {"custom_model_data":3}, "model": "kuroinu/currency/100m_currency"},	
+        {"predicate": {"custom_model_data":4}, "model": "kuroinu/vehicle/battleship_izumo"},
+        {"predicate": {"custom_model_data":5}, "model": "kuroinu/vehicle/neginegi"}
+    ]
+}
