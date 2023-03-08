@@ -34,6 +34,11 @@
 		"thirdperson_righthand": {
 			"scale": [0.5, 0.5, 0.5]
 		},
+		"gui": {
+			"rotation": [23, 46, 0],
+			"translation": [0.5, -4.25, 0],
+			"scale": [0.89258, 0.53516, 1]
+		},
 		"fixed": {
 			"rotation": [-90, 0, 0],
 			"translation": [0, 0, -7.75],
