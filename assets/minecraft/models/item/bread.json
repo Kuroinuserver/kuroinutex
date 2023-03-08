@@ -18,7 +18,8 @@
     	{ "predicate": {"custom_model_data":12}, "model": "kuroinu/food/toast_bread"},
 		{ "predicate": {"custom_model_data":13}, "model": "kuroinu/food/sliced_bun"},
     	{ "predicate": {"custom_model_data":14}, "model": "kuroinu/food/bun"},
+	{ "predicate": {"custom_model_data":14}, "model": "kuroinu/food/lemon"},
 
-    	{ "predicate": {"custom_model_data":15}, "model": "item/bread"}
+    	{ "predicate": {"custom_model_data":16}, "model": "item/bread"}
     ]
 }
