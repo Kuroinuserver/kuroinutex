@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/light_gray_glazed_terracotta"
+    },
+    "overrides": [
+    	{ "predicate": {"custom_model_data":1}, "model": "kuroinu/ore/emeraldcore"},
+
+    	{ "predicate": {"custom_model_data":2}, "model": "block/light_gray_glazed_terracotta"}
+    ]
+}
