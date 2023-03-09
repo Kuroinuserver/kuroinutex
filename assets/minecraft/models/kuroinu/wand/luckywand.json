@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "cornflowerblue",
-		"1": "orchid",
-		"particle": "cornflowerblue"
+		"0": "kuroinu/common/cornflowerblue",
+		"1": "kuroinu/common/orchid",
+		"particle": "kuroinu/common/cornflowerblue"
 	},
 	"elements": [
 		{
