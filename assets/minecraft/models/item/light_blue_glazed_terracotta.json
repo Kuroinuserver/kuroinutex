@@ -1,11 +1,11 @@
 {
     "parent": "item/generated",
     "textures": {
-        "layer0": "item/light_blue_glazed_terracotta"
+        "layer0": "block/light_blue_glazed_terracotta"
     },
     "overrides": [
     	{ "predicate": {"custom_model_data":1}, "model": "kuroinu/ore/diamondcore"},
 
-    	{ "predicate": {"custom_model_data":2}, "model": "item/bread"}
+    	{ "predicate": {"custom_model_data":2}, "model": "block/light_blue_glazed_terracotta"}
     ]
 }
