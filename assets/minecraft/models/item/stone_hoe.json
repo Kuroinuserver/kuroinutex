@@ -7,6 +7,7 @@
 		
 		{"predicate": {"custom_model_data":1}, "model": "kuroinu/equipment/chair"},
 		{"predicate": {"custom_model_data":2}, "model": "kuroinu/equipment/desk"},
-        {"predicate": {"custom_model_data":3}, "model": "item/stone_hoe"}
+		{"predicate": {"custom_model_data":3}, "model": "kuroinu/equipment/tank_new"},
+        {"predicate": {"custom_model_data":4}, "model": "item/stone_hoe"}
     ]
 }
