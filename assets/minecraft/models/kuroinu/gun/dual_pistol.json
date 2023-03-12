@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "man10/equipment/dual_pistol/dual_pistol",
-		"1": "man10/equipment/dual_pistol/dual_pistol2",
-		"2": "man10/equipment/dual_pistol/dual_pistol3",
-		"particle": "man10/equipment/dual_pistol/dual_pistol"
+		"0": "kuroinu/gun/dual_pistol",
+		"1": "kuroinu/gun/dual_pistol2",
+		"2": "kuroinu/gun/dual_pistol3",
+		"particle": "kuroinu/gun/dual_pistol"
 	},
 	"elements": [
 		{
