@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "SRS",
-		"1": "SRS_2",
-		"2": "SRS_3",
-		"particle": "SRS"
+		"0": "kuroinu/gun/SRS",
+		"1": "kuroinu/gun/SRS_2",
+		"2": "kuroinu/gun/SRS_3",
+		"particle": "kuroinu/gun/SRS"
 	},
 	"elements": [
 		{
