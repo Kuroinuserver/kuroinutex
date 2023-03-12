@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "kuroinu/gun/tecdc9",
-		"1": "kuroinu/gun/tecdc91",
-		"particle": "kuroinu/gun/tecdc9"
+		"0": "tecdc9",
+		"1": "tecdc91",
+		"particle": "tecdc9"
 	},
 	"elements": [
 		{
@@ -2710,6 +2710,24 @@
 			}
 		}
 	],
+	"display": {
+		"firstperson_righthand": {
+			"translation": [-0.75, 3.25, -0.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [-0.75, 3.25, -0.5]
+		},
+		"gui": {
+			"rotation": [0, 90, 0],
+			"translation": [-0.75, 3, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"rotation": [0, -90, 0],
+			"translation": [0.75, 2.25, 0],
+			"scale": [1.5, 1.5, 1.5]
+		}
+	},
 	"groups": [
 		{
 			"name": "group",
