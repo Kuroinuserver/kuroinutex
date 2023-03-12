@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "tecdc9",
-		"1": "tecdc91",
-		"particle": "tecdc9"
+		"0": "kuroinu/gun/tecdc9",
+		"1": "kuroinu/gun/tecdc91",
+		"particle": "kuroinu/gun/tecdc9"
 	},
 	"elements": [
 		{
