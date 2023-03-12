@@ -6,6 +6,9 @@
   "overrides": [
       { "predicate": {"custom_model_data": 1 }, "model" : "kuroinu/gun/yowayowagun"},
       { "predicate": {"custom_model_data": 2 }, "model" : "kuroinu/gun/shotgun"},
-      { "predicate": {"custom_model_data": 3 }, "model" : "item/iron_horse_armor"}
+      { "predicate": {"custom_model_data": 3 }, "model" : "kuroinu/gun/srs"},
+      { "predicate": {"custom_model_data": 4 }, "model" : "kuroinu/gun/dual_pistol"},
+      { "predicate": {"custom_model_data": 5 }, "model" : "kuroinu/gun/tec_dc9"},
+      { "predicate": {"custom_model_data": 6 }, "model" : "item/iron_horse_armor"}
   ]
 }
