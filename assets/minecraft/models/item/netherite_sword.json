@@ -6,6 +6,6 @@
     "overrides": [
 		
 		{"predicate": {"custom_model_data":1}, "model": "kuroinu/sword/lightsword-orange"}
-		{"predicate": {"custom_model_data":2}, "model": "minecraft/netherite_sword"}
+		{"predicate": {"custom_model_data":2}, "model": "item/netherite_sword"}
     ]
 }
