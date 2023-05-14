@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "kuroinu/food/lemon"
+    "layer0": "kuroinu/sword/nazo_sword"
     },
     "display": {
       "thirdperson_righthand": {
