@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "man10/sword/nazo_sword"
+		"layer0": "kuroinu/tool/nazo_sword"
 	}
 }
