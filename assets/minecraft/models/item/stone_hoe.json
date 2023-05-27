@@ -10,7 +10,7 @@
 		{"predicate": {"custom_model_data":3}, "model": "kuroinu/equipment/tank_new"},
 		{"predicate": {"custom_model_data":4}, "model": "kuroinu/equipment/iphone"},
 	    {"predicate": {"custom_model_data":5}, "model": "kuroinu/equipment/iphone_14pro_sleep"},
-	    {"predicate": {"custom_model_data":6}, "model": "kuroinu/equipment/aerlyce_phone_3_rog.json"},
+	    {"predicate": {"custom_model_data":6}, "model": "kuroinu/equipment/aerlyce_phone_3_rog"},
         {"predicate": {"custom_model_data":7}, "model": "item/stone_hoe"}
     ]
 }
