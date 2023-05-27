@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "man10/common/black",
-		"3": "man10/common/gray5",
-		"4": "man10/common/gray13",
-		"5": "man10/common/gray7",
-		"particle": "man10/common/black"
+		"0": "kuroinu/common/black",
+		"3": "kuroinu/common/gray5",
+		"4": "kuroinu/common/gray13",
+		"5": "kuroinu/common/gray7",
+		"particle": "kuroinu/common/black"
 	},
 	"elements": [
 		{
