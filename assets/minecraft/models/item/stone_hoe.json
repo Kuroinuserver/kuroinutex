@@ -14,6 +14,7 @@
 	    {"predicate": {"custom_model_data":7}, "model": "kuroinu/equipment/ipad_pro_12_9_space_gray"},
 	    {"predicate": {"custom_model_data":8}, "model": "kuroinu/equipment/laptop"},
 	    {"predicate": {"custom_model_data":9}, "model": "kuroinu/equipment/zen_2"},
-        {"predicate": {"custom_model_data":10}, "model": "item/stone_hoe"}
+	    {"predicate": {"custom_model_data":10}, "model": "kuroinu/equipment/macbookair"},
+        {"predicate": {"custom_model_data":11}, "model": "item/stone_hoe"}
     ]
 }
