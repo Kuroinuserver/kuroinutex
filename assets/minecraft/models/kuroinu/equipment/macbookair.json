@@ -1,15 +1,15 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "gray3",
-		"2": "gray5",
-		"3": "gray13",
-		"4": "gray14",
-		"5": "gray7",
-		"6": "gray9",
-		"7": "gray12",
-		"8": "wallpaper",
-		"particle": "gray1"
+		"1": "kuroinu/common/gray3",
+		"2": "kuroinu/common/gray5",
+		"3": "kuroinu/common/gray13",
+		"4": "kuroinu/common/gray14",
+		"5": "kuroinu/common/gray7",
+		"6": "kuroinu/common/gray9",
+		"7": "kuroinu/common/gray12",
+		"8": "kuroinu/common/wallpaper",
+		"particle": "kuroinu/common/gray1"
 	},
 	"elements": [
 		{
