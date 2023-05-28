@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/flint"
+    },
+    "overrides": [
+		
+		{"predicate": {"custom_model_data":101}, "model": "kuroinu/image/00"},
+		{"predicate": {"custom_model_data":102}, "model": "kuroinu/image/01"},
+		{"predicate": {"custom_model_data":103}, "model": "kuroinu/image/02"},
+		{"predicate": {"custom_model_data":104}, "model": "kuroinu/equipment/iphone"},
+	    {"predicate": {"custom_model_data":105}, "model": "kuroinu/image/03"},
+	    {"predicate": {"custom_model_data":106}, "model": "kuroinu/image/04"},
+	    {"predicate": {"custom_model_data":107}, "model": "kuroinu/image/05"},
+	    {"predicate": {"custom_model_data":108}, "model": "kuroinu/image/06"},
+	    {"predicate": {"custom_model_data":109}, "model": "kuroinu/image/07"},
+	    {"predicate": {"custom_model_data":110}, "model": "kuroinu/image/08"},
+        {"predicate": {"custom_model_data":111}, "model": "item/flint"}
+    ]
+}
