@@ -35,6 +35,6 @@
 	    {"predicate": {"custom_model_data":128}, "model": "kuroinu/image/43"},
 	    {"predicate": {"custom_model_data":129}, "model": "kuroinu/image/44"},
 	    {"predicate": {"custom_model_data":130}, "model": "kuroinu/image/45"},
-        {"predicate": {"custom_model_data":111}, "model": "item/flint"}
+        {"predicate": {"custom_model_data":131}, "model": "item/flint"}
     ]
 }
