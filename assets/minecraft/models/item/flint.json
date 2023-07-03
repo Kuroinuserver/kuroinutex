@@ -4,6 +4,7 @@
         "layer0": "item/flint"
     },
     "overrides": [
+	    {"predicate": {"custom_model_data":1}, "model": "kuroinu/ore/fire_ruby_ore"},
 		
 		{"predicate": {"custom_model_data":101}, "model": "kuroinu/image/00"},
 		{"predicate": {"custom_model_data":102}, "model": "kuroinu/image/01"},
