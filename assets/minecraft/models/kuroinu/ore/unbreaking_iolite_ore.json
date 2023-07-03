@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "kuroinu/ore/unbreaking_iolite_ore"
+      }
+  }
