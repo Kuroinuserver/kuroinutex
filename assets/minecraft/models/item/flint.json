@@ -6,7 +6,10 @@
     "overrides": [
 	    {"predicate": {"custom_model_data":1}, "model": "kuroinu/ore/fire_ruby_ore"},
 	    {"predicate": {"custom_model_data":2}, "model": "kuroinu/ore/fire_ruby"},
-		
+	    {"predicate": {"custom_model_data":3}, "model": "kuroinu/ore/fire_ruby_block"},
+	    {"predicate": {"custom_model_data":4}, "model": "kuroinu/ore/ice_sapphire_ore"},
+	    {"predicate": {"custom_model_data":5}, "model": "kuroinu/ore/ice_sapphire"},
+	    {"predicate": {"custom_model_data":6}, "model": "kuroinu/ore/ice_sapphire_block"},
 		{"predicate": {"custom_model_data":101}, "model": "kuroinu/image/00"},
 		{"predicate": {"custom_model_data":102}, "model": "kuroinu/image/01"},
 		{"predicate": {"custom_model_data":103}, "model": "kuroinu/image/02"},
