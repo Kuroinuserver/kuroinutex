@@ -21,6 +21,7 @@
 	    {"predicate": {"custom_model_data":15}, "model": "kuroinu/ore/sulfur_ore"},
 	    {"predicate": {"custom_model_data":16}, "model": "kuroinu/ore/tungsten_ore"},
 	    {"predicate": {"custom_model_data":17}, "model": "kuroinu/ore/manganese_ore"},
+	    {"predicate": {"custom_model_data":18}, "model": "kuroinu/currency/hammer"},
 		{"predicate": {"custom_model_data":101}, "model": "kuroinu/image/00"},
 		{"predicate": {"custom_model_data":102}, "model": "kuroinu/image/01"},
 		{"predicate": {"custom_model_data":103}, "model": "kuroinu/image/02"},
