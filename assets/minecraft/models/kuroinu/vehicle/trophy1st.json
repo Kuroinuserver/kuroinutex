@@ -5,9 +5,9 @@
 	"textures": {
 		"2": "block/gold_block",
 		"3": "block/dark_oak_planks",
-		"4": "gold_blok",
+		"4": "block/gold_block",
 		"5": "block/red_wool",
-		"particle": "gold_blok"
+		"particle": "block/gold_block"
 	},
 	"elements": [
 		{
