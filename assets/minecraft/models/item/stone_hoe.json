@@ -16,6 +16,7 @@
 	    {"predicate": {"custom_model_data":9}, "model": "kuroinu/equipment/zen_2"},
 	    {"predicate": {"custom_model_data":10}, "model": "kuroinu/equipment/macbookair"},
 	    {"predicate": {"custom_model_data":11}, "model": "kuroinu/vehicle/trophy1st"},
-        {"predicate": {"custom_model_data":12}, "model": "item/stone_hoe"}
+        {"predicate": {"custom_model_data":12}, "model": "item/stone_hoe"},
+	    {"predicate": {"custom_model_data":13}, "model": "kuroinu/equipment/nitori"}
     ]
 }
