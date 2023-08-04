@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "wand2",
-		"2": "wand3",
-		"3": "wand5"
+		"1": "kuroinu/common/wand2",
+		"2": "kuroinu/common/wand3",
+		"3": "kuroinu/common/wand5"
 	},
 	"elements": [
 		{
