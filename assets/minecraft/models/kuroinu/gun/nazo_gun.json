@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "kuroinu/tool/nazo_gun"
+		"layer0": "kuroinu/gun/nazo_gun"
 	}
 }
