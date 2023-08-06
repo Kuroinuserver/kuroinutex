@@ -6,6 +6,7 @@
     "overrides": [
 		
 		{"predicate": {"custom_model_data":1}, "model": "kuroinu/wand/luckywand"},
-	    {"predicate": {"custom_model_data":2}, "model": "kuroinu/wand/wand"}
+	    {"predicate": {"custom_model_data":2}, "model": "kuroinu/wand/wand"},
+	    {"predicate": {"custom_model_data":3}, "model": "kuroinu/gun/nazo_gun"}
     ]
 }
