@@ -1,16 +1,16 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "deepslate",
-		"1": "iron_block",
-		"3": "blackstone",
-		"4": "iron_trapdoor",
-		"5": "calcite",
-		"6": "lava_flow",
-		"7": "block/texture",
-		"8": "wool_colored_yellow",
-		"9": "wool_colored_white",
-		"particle": "deepslate"
+		"0": "block/deepslate",
+		"1": "block/iron_block",
+		"3": "block/blackstone",
+		"4": "block/iron_trapdoor",
+		"5": "block/calcite",
+		"6": "block/lava_flow",
+		"7": "kuroinu/common/gray3",
+		"8": "block/wool_colored_yellow",
+		"9": "block/wool_colored_white",
+		"particle": "block/deepslate"
 	},
 	"elements": [
 		{
