@@ -6,6 +6,7 @@
     "overrides": [
 		
 		{"predicate": {"custom_model_data":1}, "model": "kuroinu/hat/usamimi"},
-        {"predicate": {"custom_model_data":2}, "model": "item/wooden_hoe"}
+	    {"predicate": {"custom_model_data":2}, "model": "kuroinu/equipment/JetPack"},
+        {"predicate": {"custom_model_data":3}, "model": "item/wooden_hoe"}
     ]
 }
