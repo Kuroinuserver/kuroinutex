@@ -10,7 +10,7 @@
 		"7": "kuroinu/common/gray5",
 		"8": "block/wool_colored_yellow",
 		"9": "block/wool_colored_white",
-		"particle": "deepslate"
+		"particle": "block/deepslate"
 	},
 	"elements": [
 		{
