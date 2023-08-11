@@ -1,16 +1,16 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/deepslate",
-		"1": "block/iron_block",
-		"3": "block/blackstone",
-		"4": "block/iron_trapdoor",
-		"5": "block/calcite",
-		"6": "block/lava_flow",
-		"7": "kuroinu/common/gray5",
-		"8": "block/wool_colored_yellow",
-		"9": "block/wool_colored_white",
-		"particle": "block/deepslate"
+		"0": "deepslate",
+		"1": "iron_block",
+		"3": "blackstone",
+		"4": "iron_trapdoor",
+		"5": "calcite",
+		"6": "lava_flow",
+		"7": "block/texture",
+		"8": "wool_colored_yellow",
+		"9": "wool_colored_white",
+		"particle": "deepslate"
 	},
 	"elements": [
 		{
@@ -2463,6 +2463,14 @@
 		}
 	],
 	"display": {
+		"thirdperson_righthand": {
+			"rotation": [67, 0, 0],
+			"translation": [-5.75, -1.75, 8.75]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [67, 0, 0],
+			"translation": [-5.75, -1.75, 8.75]
+		},
 		"firstperson_righthand": {
 			"rotation": [0, 180, 0]
 		},
