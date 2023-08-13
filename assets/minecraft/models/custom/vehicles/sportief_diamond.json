@@ -1,0 +1,9 @@
+{
+    "parent": "custom/vehicles/sportief_gold",
+    "textures": {
+        "particle": "items/particle",
+		"texture": "items/texture",
+		"voxels_palette": "blocks/glass_light_blue",
+		"voxels_atlas1": "custom/cars/sportief_diamond"
+    }
+}

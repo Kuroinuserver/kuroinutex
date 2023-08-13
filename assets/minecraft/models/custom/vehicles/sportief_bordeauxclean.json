@@ -1,0 +1,8 @@
+{
+    "parent": "custom/vehicles/sportief_navyblauw",
+    "textures": {
+  		"particle": "items/particle",
+  		"texture": "items/texture",
+  		"voxels_atlas": "custom/cars/sportief_bordeauxclean"
+    }
+}
