@@ -1,0 +1,8 @@
+{
+    "parent": "custom/vehicles/hoverboard_white",
+    "textures": {
+        "particle": "items/e_particle",
+		"texture": "items/e_texture",
+		"voxels_atlas": "custom/cars/hoverboard_red"
+    }
+}

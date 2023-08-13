@@ -1,0 +1,8 @@
+{
+    "parent": "custom/vehicles/fiets_vrouw_gray",
+	"textures": {
+		"particle": "items/particle",
+		"texture": "items/texture",
+		"voxels_atlas": "custom/cars/fiets_vrouw_babygirl"
+    }
+}

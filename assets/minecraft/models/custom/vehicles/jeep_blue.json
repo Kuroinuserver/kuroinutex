@@ -1,0 +1,9 @@
+{
+    "parent": "custom/vehicles/jeep_gold",
+    "textures": {
+        "particle": "items/e_particle",
+		"texture": "items/e_texture",
+		"voxels_palette": "blocks/glass_gray",
+		"voxels_atlas1": "custom/cars/jeep_blue"
+    }
+}
