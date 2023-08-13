@@ -1,0 +1,285 @@
+{
+	"minetopiaclassic.carsound1": {
+		"sounds": [
+			"customminetopiaclassic/carsound1"
+		]
+	},
+	"minetopiaclassic.carsound2": {
+		"sounds": [
+			"customminetopiaclassic/carsound2"
+		]
+	},
+	"minetopiaclassic.carsound3": {
+		"sounds": [
+			"customminetopiaclassic/carsound3"
+		]
+	},
+	"minetopiaclassic.lightsaber1": {
+		"sounds": [
+			"customminetopiaclassic/lightsaber1"
+		]
+	},
+	"minetopiaclassic.lightsaber2": {
+		"sounds": [
+			"customminetopiaclassic/lightsaber2"
+		]
+	},
+	"minetopiaclassic.r2d2": {
+		"sounds": [
+			"customminetopiaclassic/r2d2"
+		]
+	},
+	"minetopiaclassic.belring": {
+		"sounds": [
+			"customminetopiaclassic/belring"
+		]
+
+	},
+	"minetopiaclassic.horn1": {
+		"sounds": [
+			"customminetopia_vehicles/horn1"
+		]
+	},
+	"minetopiaclassic.horn2": {
+		"sounds": [
+			"customminetopia_vehicles/horn2"
+		]
+	},
+	"minetopiaclassic.horn3": {
+		"sounds": [
+			"customminetopia_vehicles/horn3"
+		]
+	},
+	"minetopiaclassic.horn4": {
+		"sounds": [
+			"customminetopia_vehicles/horn4"
+		]
+	},
+	"minetopiaclassic.horn5": {
+		"sounds": [
+			"customminetopia_vehicles/horn5"
+		]
+	},
+	"minetopiaclassic.horn6": {
+		"sounds": [
+			"customminetopia_vehicles/horn6"
+		]
+	},
+	"minetopiaclassic.horn7": {
+		"sounds": [
+			"customminetopia_vehicles/horn7"
+		]
+	},
+	"minetopiaclassic.horn8": {
+		"sounds": [
+			"customminetopia_vehicles/horn8"
+		]
+	},
+	"minetopiaclassic.horn9": {
+		"sounds": [
+			"customminetopia_vehicles/horn9"
+		]
+	},
+	"minetopiaclassic.horn10": {
+		"sounds": [
+			"customminetopia_vehicles/horn10"
+		]
+	},
+	"minetopiaclassic.horn11": {
+		"sounds": [
+			"customminetopia_vehicles/horn11"
+		]
+	},
+	"minetopiaclassic.horn12": {
+		"sounds": [
+			"customminetopia_vehicles/horn12"
+		]
+	},
+	"minetopiaclassic.horn13": {
+		"sounds": [
+			"customminetopia_vehicles/horn13"
+		]
+	},
+	"minetopiaclassic.horn14": {
+		"sounds": [
+			"customminetopia_vehicles/horn14"
+		]
+	},
+	"minetopiaclassic.horn15": {
+		"sounds": [
+			"customminetopia_vehicles/horn15"
+		]
+	},
+	"minetopiaclassic.horn16": {
+		"sounds": [
+			"customminetopia_vehicles/horn16"
+		]
+	},
+	"minetopiaclassic.horn17": {
+		"sounds": [
+			"customminetopia_vehicles/horn17"
+		]
+	},
+	"minetopiaclassic.horn18": {
+		"sounds": [
+			"customminetopia_vehicles/horn18"
+		]
+	},
+	"minetopiaclassic.horn19": {
+		"sounds": [
+			"customminetopia_vehicles/horn19"
+		]
+	},
+	"minetopiaclassic.horn20": {
+		"sounds": [
+			"customminetopia_vehicles/horn20"
+		]
+	},
+        "minetopia.gunreloadhard": {
+		"sounds": [
+			"customminetopiaclassic/gunreload_hard"
+		]
+	},
+        "minetopia.gunreloadsoft": {
+		"sounds": [
+			"customminetopiaclassic/gunreload_soft"
+		]
+	},
+        "minetopia.gunshothandgun": {
+		"sounds": [
+			"customminetopiaclassic/gunshot_handgun"
+		]
+	},
+        "minetopia.gunshothard": {
+		"sounds": [
+			"customminetopiaclassic/gunshot_hard"
+		]
+	},
+        "minetopia.gunshotrevolver": {
+		"sounds": [
+			"customminetopiaclassic/gunshot_revolver"
+		]
+	},
+	"minetopia.gunempty": {
+		"sounds": [
+			"customminetopiaclassic/gunempty"
+		]
+	},
+	"minetopiaclassic.vuvuzela": {
+		"sounds": [
+			"customminetopiaclassic/vuvuzela"
+		]
+	},
+	"minetopia.bat": {
+		"sounds": [
+			"customminetopiaclassic/bat"
+		]
+	},
+	"minetopia.glitter": {
+		"sounds": [
+			"customminetopiaclassic/glitter"
+		]
+	},
+	"minetopia.grenadelauncher": {
+		"sounds": [
+			"customminetopiaclassic/grenadelauncher"
+		]
+	},
+	"minetopia.knifeheadshot": {
+		"sounds": [
+			"customminetopiaclassic/knifeheadshot"
+		]
+	},
+	"minetopia.454bb": {
+		"sounds": [
+			"customminetopiaclassic/454bb"
+		]
+	},
+	"minetopia.impreza": {
+		"sounds": [
+			"customminetopiaclassic/impreza"
+		]
+	},
+	"minetopia.nissangtr": {
+		"sounds": [
+			"customminetopiaclassic/nissangtr"
+		]
+	},
+	"minetopia.nov8": {
+		"sounds": [
+			"customminetopiaclassic/nov8"
+		]
+	},
+	"minetopia.rallycar": {
+		"sounds": [
+			"customminetopiaclassic/rallycar"
+		]
+	},
+	"minetopia.supra": {
+		"sounds": [
+			"customminetopiaclassic/supra"
+		]
+	},
+	"minetopia.ultimatef1": {
+		"sounds": [
+			"customminetopiaclassic/ultimatef1"
+		]
+	},
+	"minetopia.v6turbo": {
+		"sounds": [
+			"customminetopiaclassic/v6turbo"
+		]
+	},
+	"minetopia.v8cbblock": {
+		"sounds": [
+			"customminetopiaclassic/v8cbblock2"
+		]
+	},
+	"minetopia.v8f1": {
+		"sounds": [
+			"customminetopiaclassic/v8f1"
+		]
+	},
+	"minetopia.v8hemi": {
+		"sounds": [
+			"customminetopiaclassic/v8hemi"
+		]
+	},
+	"minetopia.v8supercharged": {
+		"sounds": [
+			"customminetopiaclassic/v8supercharged"
+		]
+	},
+	"minetopia.v10f1": {
+		"sounds": [
+			"customminetopiaclassic/v10f1"
+		]
+	},
+	"minetopia.v12f1": {
+		"sounds": [
+			"customminetopiaclassic/v12f1"
+		]
+	},
+	"minetopia.v12lambo": {
+		"sounds": [
+			"customminetopiaclassic/v12lambo"
+		]
+	},
+	"minetopia.vr6turbo": {
+		"sounds": [
+			"customminetopiaclassic/vr6turbo"
+		]
+	},
+	"minetopia.vtec": {
+		"sounds": [
+			"customminetopiaclassic/vtec"
+		]
+	},
+	"minetopia.supermax": {
+		"sounds": [
+			"customminetopiaclassic/supermax"
+		]
+	}
+
+
+}
