@@ -12,6 +12,16 @@
         },
         {
             "type": "directory",
+            "source": "items",
+            "prefix": "items/"
+        },
+        {
+            "type": "directory",
+            "source": "custom",
+            "prefix": "custom/"
+        },
+        {
+            "type": "directory",
             "source": "entity/conduit",
             "prefix": "entity/conduit/"
         },
