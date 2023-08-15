@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "concrete_black",
-		"3": "white",
-		"4": "lightskyblue",
+		"0": "block/concrete_black",
+		"3": "kuroinu/common/white",
+		"4": "kuroinu/common/lightskyblue",
 		"5": "kuroinu/common/gray12",
-		"particle": "concrete_black"
+		"particle": "block/concrete_black"
 	},
 	"elements": [
 		{
