@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "greenyellow",
-		"1": "white",
-		"2": "gray12",
-		"particle": "greenyellow"
+		"0": "kuroinu/common/greenyellow",
+		"1": "kuroinu/commonwhite",
+		"2": "kuroinu/common/gray12",
+		"particle": "kuroinu/common/greenyellow"
 	},
 	"elements": [
 		{
