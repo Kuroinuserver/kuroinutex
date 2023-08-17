@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"3": "red",
-		"4": "gray12",
-		"5": "white",
-		"particle": "red"
+		"3": "kuroinu/common/red",
+		"4": "kuroinu/common/gray12",
+		"5": "kuroinu/common/white",
+		"particle": "kuroinu/common/red"
 	},
 	"elements": [
 		{
