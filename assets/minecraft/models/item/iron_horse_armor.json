@@ -11,6 +11,9 @@
       { "predicate": {"custom_model_data": 5 }, "model" : "kuroinu/gun/tec_dc9"},
     { "predicate": {"custom_model_data": 6 }, "model" : "kuroinu/gun/shiroko_gun"},
     { "predicate": {"custom_model_data": 7 }, "model" : "kuroinu/gun/shiroko_gun_scope"},
-      { "predicate": {"custom_model_data": 8 }, "model" : "item/iron_horse_armor"}
+    { "predicate": {"custom_model_data": 8 }, "model" : "kuroinu/gun/hoshino_gun"},
+    { "predicate": {"custom_model_data": 9 }, "model" : "kuroinu/gun/ayane_gun"},
+    { "predicate": {"custom_model_data": 10 }, "model" : "kuroinu/gun/nonomi_gun"},
+      { "predicate": {"custom_model_data": 11 }, "model" : "item/iron_horse_armor"}
   ]
 }
