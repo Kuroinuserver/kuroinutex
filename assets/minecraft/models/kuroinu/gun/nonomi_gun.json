@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "kuroinu/common/greenyellow",
-		"1": "kuroinu/commonwhite",
+		"1": "kuroinu/common/white",
 		"2": "kuroinu/common/gray12",
 		"particle": "kuroinu/common/greenyellow"
 	},
