@@ -1,0 +1,11 @@
+{
+    "parent": "item/block",
+    "textures": {
+        "layer0": "block/crafting_table"
+    },
+    "overrides": [
+    	{ "predicate": {"custom_model_data":1}, "model": "kuroinu/ore/chromium_ore"},
+
+    	{ "predicate": {"custom_model_data":2}, "model": "block/crafting_table"}
+    ]
+}
