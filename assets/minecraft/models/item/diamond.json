@@ -5,7 +5,7 @@
     },
     "overrides": [
 		
-		{"predicate": {"custom_model_data":1}, "model": "kuroinu/currency/voting_crystal"},
+		{"predicate": {"custom_model_data":1}, "model": "kuroinu/ore/voting_crystal"},
         {"predicate": {"custom_model_data":2}, "model": "item/diamond"}
     ]
 }
