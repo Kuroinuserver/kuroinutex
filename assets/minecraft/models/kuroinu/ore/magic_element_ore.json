@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/cube_all",
     "textures": {
-      "all": "kuroinu/ore/ore1"
+      "all": "kuroinu/ore/magic_element_ore"
       }
   }
