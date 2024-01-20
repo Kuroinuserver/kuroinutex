@@ -32,7 +32,7 @@
 	    {"predicate": {"custom_model_data":26}, "model": "kuroinu/currency/ticket_rainbow"},
 	    {"predicate": {"custom_model_data":27}, "model": "kuroinu/ore/ancient_glint"},
 	    {"predicate": {"custom_model_data":28}, "model": "kuroinu/ore/ancient_luster"},
-	    {"predicate": {"custom_model_data":29}, "model": "kuroinu/ore/ore1"},
+	    {"predicate": {"custom_model_data":29}, "model": "kuroinu/ore/magic_element_ore"},
 	    {"predicate": {"custom_model_data":30}, "model": "kuroinu/ore/tungsten_ingot"},
 	    {"predicate": {"custom_model_data":31}, "model": "kuroinu/ore/sulfur_ingot"},
 	    {"predicate": {"custom_model_data":32}, "model": "kuroinu/ore/aluminum_ingot"},
