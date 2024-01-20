@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "kuroinu/ore/sulfer_ingot"
+    "layer0": "kuroinu/ore/sulfur_ingot"
   }
 }
