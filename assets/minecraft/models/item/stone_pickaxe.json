@@ -1,11 +1,11 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "items/stone_pickaxe"
+		"layer0": "item/stone_pickaxe"
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "kuroinu/tool/chromium_pickaxe"},
 		{"predicate": {"custom_model_data":2}, "model": "kuroinu/tool/titanium_pickaxe"},
-		{"predicate": {"custom_model_data":3}, "model": "items/stone_pickaxe"}
+		{"predicate": {"custom_model_data":3}, "model": "item/stone_pickaxe"}
 	]
 }
