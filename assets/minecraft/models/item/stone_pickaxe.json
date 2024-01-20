@@ -5,6 +5,7 @@
 	},
 	"overrides": [
 		{"predicate": {"custom_model_data":1}, "model": "kuroinu/tool/chromium_pickaxe"},
-		{"predicate": {"custom_model_data":2}, "model": "kuroinu/tool/titanium_pickaxe"}
+		{"predicate": {"custom_model_data":2}, "model": "kuroinu/tool/titanium_pickaxe"},
+		{"predicate": {"custom_model_data":3}, "model": "items/stone_pickaxe"}
 	]
 }
