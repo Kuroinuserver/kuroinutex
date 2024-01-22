@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "kuroinu/tool/water_sword"
+	}
+}
