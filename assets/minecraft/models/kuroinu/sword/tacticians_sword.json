@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "kuroinu/tool/tacticians_sword"
+		"layer0": "kuroinu/sword/tacticians_sword"
 	}
 }
