@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "kuroinu/wand/ice_and_fire_wand"
+	}
+}
