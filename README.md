@@ -6,19 +6,19 @@ kuroinu鯖のリソースパックです
 `kuroinutex/assets/minecraft/models/kuroinu/`内
 | フォルダ名  | 備考 |
 | ------------- | ------------- |
-|accessory|textures内のみ|
+|accessory|textures内のみ存在|
 |armor||
-|common|textures内のみ|
+|common|textures内のみ存在|
 |currency||
 |equipment||
 |food||
 |gun||
-|hat|models内のみ|
+|hat|models内のみ存在|
 |image||
 |ore||
 |sword||
 |tool||
-|vehicle|models内のみ|
+|vehicle|models内のみ存在|
 |wand||
 
 `kuroinutex/assets/minecraft/models/item/`内
