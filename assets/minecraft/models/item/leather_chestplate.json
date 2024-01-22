@@ -5,7 +5,7 @@
         "layer1": "item/leather_chestplate_overlay"
     },
     "overrides": [
-        { "predicate": {"custom_model_data": 1 }, "model" : "titanium_chestplate"}
-        { "predicate": {"custom_model_data": 2 }, "model" : "chromium_chestplate"}
+        { "predicate": {"custom_model_data": 1 }, "model" : "kuroinu/armor/titanium_chestplate"}
+        { "predicate": {"custom_model_data": 2 }, "model" : "kuroinu/armor/chromium_chestplate"}
     ]
 }
