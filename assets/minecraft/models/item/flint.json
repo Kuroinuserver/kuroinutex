@@ -59,6 +59,7 @@
 	    {"predicate": {"custom_model_data":53}, "model": "kuroinu/ore/ancient_luster_core"},
 	    {"predicate": {"custom_model_data":54}, "model": "kuroinu/ore/magic_element_crystal"},
 	    {"predicate": {"custom_model_data":55}, "model": "kuroinu/ore/silver_block"},
+	    {"predicate": {"custom_model_data":55}, "model": "kuroinu/ore/raw_star"},
 		{"predicate": {"custom_model_data":101}, "model": "kuroinu/image/00"},
 		{"predicate": {"custom_model_data":102}, "model": "kuroinu/image/01"},
 		{"predicate": {"custom_model_data":103}, "model": "kuroinu/image/02"},
