@@ -2,7 +2,7 @@
     "parent": "item/generated",
     "textures": {
         "layer0": "item/leather_boots",
-
+        "layer1": "kuroinu/common/empty"
     },
     "overrides": [
         { "predicate": {"custom_model_data": 1 }, "model" : "kuroinu/armor/titanium_boots"},
