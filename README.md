@@ -31,6 +31,7 @@ kuroinu鯖のリソースパックです
 |	diamond_hoe.json	|	|
 |	flint.json	|	|
 |	iron_horse_armor.json	|	|
+|	iron_hoe.json	|accessoryのみ|
 |	iron_shovel.json	|	|
 |	light_blue_glazed_terracotta.json	|	|
 |	light_gray_glazed_terracotta.json	|	|
