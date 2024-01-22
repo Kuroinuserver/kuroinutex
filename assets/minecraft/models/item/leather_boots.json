@@ -5,7 +5,7 @@
         "layer1": "item/leather_boots_overlay"
     },
     "overrides": [
-        { "predicate": {"custom_model_data": 1 }, "model" : "titanium_boots"}
-        { "predicate": {"custom_model_data": 2 }, "model" : "chromium_boots"}
+        { "predicate": {"custom_model_data": 1 }, "model" : "kuroinu/armor/titanium_boots"}
+        { "predicate": {"custom_model_data": 2 }, "model" : "kuroinu/armor/chromium_boots"}
     ]
 }
