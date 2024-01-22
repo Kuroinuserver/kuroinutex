@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "kuroinu/tool/giants_sword"
+		"layer0": "kuroinu/sword/giants_sword"
 	}
 }
