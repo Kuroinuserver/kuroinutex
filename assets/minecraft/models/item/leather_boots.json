@@ -7,5 +7,6 @@
     "overrides": [
         { "predicate": {"custom_model_data": 1 }, "model" : "kuroinu/armor/titanium_boots"}
         { "predicate": {"custom_model_data": 2 }, "model" : "kuroinu/armor/chromium_boots"}
+        { "predicate": {"custom_model_data": 2 }, "model" : "kuroinu/armor/leather_boots"}
     ]
 }
