@@ -5,8 +5,8 @@
         "layer1": "item/leather_helmet_overlay"
     },
     "overrides": [
-        { "predicate": {"custom_model_data": 1 }, "model" : "kuroinu/armor/titanium_helmet"}
-        { "predicate": {"custom_model_data": 2 }, "model" : "kuroinu/armor/chromium_helmet"}
+        { "predicate": {"custom_model_data": 1 }, "model" : "kuroinu/armor/titanium_helmet"},
+        { "predicate": {"custom_model_data": 2 }, "model" : "kuroinu/armor/chromium_helmet"},
         { "predicate": {"custom_model_data": 3 }, "model" : "kuroinu/armor/leather_helmet"}
     ]
 }
