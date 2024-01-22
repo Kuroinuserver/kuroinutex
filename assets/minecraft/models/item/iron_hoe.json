@@ -1,9 +1,9 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "item/iron_hoe"
-  },
-  "overrides": [
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/iron_hoe"
+    },
+    "overrides": [
       { "predicate": {"custom_model_data": 1 }, "model" : "kuroinu/accessory/ore_pendant"}
       { "predicate": {"custom_model_data": 2 }, "model" : "kuroinu/accessory/star_pendant"}
   ]
