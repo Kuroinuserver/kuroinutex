@@ -7,7 +7,12 @@
 		
 		{"predicate": {"custom_model_data":1}, "model": "kuroinu/wand/luckywand"},
 	    {"predicate": {"custom_model_data":2}, "model": "kuroinu/wand/wand"},
-	    {"predicate": {"custom_model_data":3}, "model": "kuroinu/gun/nazo_gun"},
-	    {"predicate": {"custom_model_data":4}, "model": "kuroinu/gun/purple_gun"}
+	    {"predicate": {"custom_model_data":3}, "model": "kuroinu/wand/fire_wand"},
+	    {"predicate": {"custom_model_data":4}, "model": "kuroinu/wand/heal_wand"},
+	    {"predicate": {"custom_model_data":5}, "model": "kuroinu/wand/ice_and_fire_wand"},
+	    {"predicate": {"custom_model_data":6}, "model": "kuroinu/wand/ice_wand"},
+	    {"predicate": {"custom_model_data":7}, "model": "kuroinu/wand/thunder_wand"},
+	    {"predicate": {"custom_model_data":101}, "model": "kuroinu/gun/nazo_gun"},
+	    {"predicate": {"custom_model_data":102}, "model": "kuroinu/gun/purple_gun"}
     ]
 }
