@@ -12,5 +12,6 @@
 	    {"predicate": {"custom_model_data":5}, "model": "kuroinu/sword/hunter_knife"},
 	    {"predicate": {"custom_model_data":6}, "model": "kuroinu/sword/giants_sword"},
 	    {"predicate": {"custom_model_data":7}, "model": "kuroinu/sword/wand_of_mending"}
+	    {"predicate": {"custom_model_data":8}, "model": "kuroinu/sword/water_sword"}
     ]
 }
