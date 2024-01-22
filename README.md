@@ -6,6 +6,7 @@ kuroinu鯖のリソースパックです
 `kuroinutex/assets/minecraft/models/kuroinu/`内
 | フォルダ名  | 備考 |
 | ------------- | ------------- |
+|accessory|textures内のみ|
 |armor||
 |common|textures内のみ|
 |currency||
