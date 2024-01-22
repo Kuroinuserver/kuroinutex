@@ -15,7 +15,7 @@ kuroinu鯖のリソースパックです
 |hat|models内のみ|
 |image||
 |ore||
-|sword|models内のみ|
+|sword||
 |tool||
 |vehicle|models内のみ|
 |wand||
