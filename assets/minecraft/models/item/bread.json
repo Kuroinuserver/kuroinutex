@@ -20,7 +20,10 @@
     	{ "predicate": {"custom_model_data":14}, "model": "kuroinu/food/sakuramoti"},
 	{ "predicate": {"custom_model_data":15}, "model": "kuroinu/food/lemon"},
 	{ "predicate": {"custom_model_data":16}, "model": "kuroinu/vehicle/eyewash"},
-
-    	{ "predicate": {"custom_model_data":17}, "model": "item/bread"}
+	{ "predicate": {"custom_model_data":17}, "model": "kuroinu/food/tamagosand"},
+	
+	{ "predicate": {"custom_model_data":18}, "model": ""},
+    
+	{ "predicate": {"custom_model_data":19}, "model": "item/bread"}
     ]
 }
