@@ -25,7 +25,6 @@ kuroinu鯖のリソースパックです
 | フォルダ名  | 備考 |
 | ------------- | ------------- |
 |	arrow.json	|	|
-|	baked_potato.json	|  |
 |	bread.json	|	食べ物　|
 |	diamond.json	|	|
 |	diamond_hoe.json	|	|
@@ -35,7 +34,6 @@ kuroinu鯖のリソースパックです
 |	iron_shovel.json	|	|
 |	light_blue_glazed_terracotta.json	|	|
 |	light_gray_glazed_terracotta.json	|	|
-| nautilus_shell.json |食料系素材(食べられないもの)|
 |	netherite_ingot.json	|	|
 |	netherite_sword.json	|	|
 |	stone_hoe.json	|	|
