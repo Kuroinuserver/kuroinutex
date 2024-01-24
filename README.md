@@ -25,7 +25,7 @@ kuroinu鯖のリソースパックです
 | フォルダ名  | 備考 |
 | ------------- | ------------- |
 |	arrow.json	|	|
-|	bread.json	|	食べ物　|
+|	bread.json	|	food　|
 |	diamond.json	|	|
 |	diamond_hoe.json	|	|
 |	flint.json	|	|
