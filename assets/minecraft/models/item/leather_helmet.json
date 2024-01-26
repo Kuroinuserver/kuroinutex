@@ -8,6 +8,7 @@
         { "predicate": {"custom_model_data": 1 }, "model" : "kuroinu/armor/titanium_helmet"},
         { "predicate": {"custom_model_data": 2 }, "model" : "kuroinu/armor/chromium_helmet"},
         { "predicate": {"custom_model_data": 3 }, "model" : "kuroinu/armor/knowledge_book"},
-        { "predicate": {"custom_model_data": 4 }, "model" : "item/leather_helmet"}
+        { "predicate": {"custom_model_data": 4 }, "model" : "kuroinu/armor/barrier"},
+        { "predicate": {"custom_model_data": 5 }, "model" : "item/leather_helmet"}
     ]
 }
