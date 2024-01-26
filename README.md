@@ -32,6 +32,10 @@ kuroinu鯖のリソースパックです
 |	iron_horse_armor.json	|	|
 |	iron_hoe.json	|accessoryのみ|
 |	iron_shovel.json	|	|
+| leather_helmet.json | |
+| leather_armor.json | |
+| leather_leggings.json | |
+| leather_boots.json | |
 |	light_blue_glazed_terracotta.json	|	|
 |	light_gray_glazed_terracotta.json	|	|
 |	netherite_ingot.json	|	|
