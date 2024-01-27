@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/chainmail_helmet"
+    },
+    "overrides": [
+        {"predicate": {"trim_type": 0.00}, "model": "custom/template/helmet"},
+        {"predicate": {"trim_type": 0.01}, "model": "custom/emerald/helmet"},
+        {"predicate": {"trim_type": 0.02}, "model": "custom/chainmail/helmet"}
+    ]
+}
