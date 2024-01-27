@@ -8,7 +8,9 @@
                 "trims/models/armor/emerald",
                 "trims/models/armor/emerald_leggings",
                 "trims/models/armor/chainmail",
-                "trims/models/armor/chainmail_leggings"
+                "trims/models/armor/chainmail_leggings",
+                "trims/models/armor/chromium",
+                "trims/models/armor/chromium_leggings"
             ],
             "palette_key": "trims/color_palettes/trim_palette",
             "permutations": {
