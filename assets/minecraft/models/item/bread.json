@@ -44,7 +44,9 @@
 	{ "predicate": {"custom_model_data":37}, "model": "kuroinu/food/syoyu"},
 	{ "predicate": {"custom_model_data":38}, "model": "kuroinu/food/tofu"},
 	{ "predicate": {"custom_model_data":39}, "model": "kuroinu/food/yakitori"},
+	{ "predicate": {"custom_model_data":40}, "model": "kuroinu/food/sushi"},
+	{ "predicate": {"custom_model_data":41}, "model": "kuroinu/food/dressing"},
     
-	{ "predicate": {"custom_model_data":40}, "model": "item/bread"}
+	{ "predicate": {"custom_model_data":42}, "model": "item/bread"}
     ]
 }
