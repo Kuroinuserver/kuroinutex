@@ -16,14 +16,35 @@
     	{ "predicate": {"custom_model_data":10}, "model": "kuroinu/food/a_loaf_of_white_bread"},
     	{ "predicate": {"custom_model_data":11}, "model": "kuroinu/food/baked_chocolate_cornet"},
     	{ "predicate": {"custom_model_data":12}, "model": "kuroinu/food/cherry_dwarf"},
-		{ "predicate": {"custom_model_data":13}, "model": "kuroinu/food/strawberry.daihuku"},
+	{ "predicate": {"custom_model_data":13}, "model": "kuroinu/food/strawberry.daihuku"},
     	{ "predicate": {"custom_model_data":14}, "model": "kuroinu/food/sakuramoti"},
 	{ "predicate": {"custom_model_data":15}, "model": "kuroinu/food/lemon"},
 	{ "predicate": {"custom_model_data":16}, "model": "kuroinu/vehicle/eyewash"},
 	{ "predicate": {"custom_model_data":17}, "model": "kuroinu/food/tamagosand"},
 	
-	{ "predicate": {"custom_model_data":18}, "model": ""},
+	{ "predicate": {"custom_model_data":18}, "model": "kuroinu/food/cabbage"},
+	{ "predicate": {"custom_model_data":19}, "model": "kuroinu/food/cabbage_rolls"},
+	{ "predicate": {"custom_model_data":20}, "model": "kuroinu/food/chili_pepper"},
+	{ "predicate": {"custom_model_data":21}, "model": "kuroinu/food/cooked_rice"},
+	{ "predicate": {"custom_model_data":22}, "model": "kuroinu/food/cooking_oil"},
+	{ "predicate": {"custom_model_data":23}, "model": "kuroinu/food/doubanjiang"},
+	{ "predicate": {"custom_model_data":24}, "model": "kuroinu/food/gyoza"},
+	{ "predicate": {"custom_model_data":25}, "model": "kuroinu/food/gyoza_wrappers"},
+	{ "predicate": {"custom_model_data":26}, "model": "kuroinu/food/mabow_doufu"},
+	{ "predicate": {"custom_model_data":27}, "model": "kuroinu/food/magnesium_powder"},
+	{ "predicate": {"custom_model_data":28}, "model": "kuroinu/food/meuniere"},
+	{ "predicate": {"custom_model_data":29}, "model": "kuroinu/food/nigari"},
+	{ "predicate": {"custom_model_data":30}, "model": "kuroinu/food/raw_cabbage_rolls"},
+	{ "predicate": {"custom_model_data":31}, "model": "kuroinu/food/raw_gyoza"},
+	{ "predicate": {"custom_model_data":32}, "model": "kuroinu/food/rice"},
+	{ "predicate": {"custom_model_data":33}, "model": "kuroinu/food/rice_ball"},
+	{ "predicate": {"custom_model_data":34}, "model": "kuroinu/food/salad"},
+	{ "predicate": {"custom_model_data":35}, "model": "kuroinu/food/salt"},
+	{ "predicate": {"custom_model_data":36}, "model": "kuroinu/food/soy"},
+	{ "predicate": {"custom_model_data":37}, "model": "kuroinu/food/syoyu"},
+	{ "predicate": {"custom_model_data":38}, "model": "kuroinu/food/tofu"},
+	{ "predicate": {"custom_model_data":39}, "model": "kuroinu/food/yakitori"},
     
-	{ "predicate": {"custom_model_data":19}, "model": "item/bread"}
+	{ "predicate": {"custom_model_data":40}, "model": "item/bread"}
     ]
 }
