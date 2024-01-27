@@ -1,0 +1,19 @@
+{
+    "sources": [
+        {
+            "type": "paletted_permutations",
+            "textures": [
+                "trims/models/armor/template",
+                "trims/models/armor/template_leggings",
+                "trims/models/armor/emerald",
+                "trims/models/armor/emerald_leggings",
+                "trims/models/armor/chainmail",
+                "trims/models/armor/chainmail_leggings"
+            ],
+            "palette_key": "trims/color_palettes/trim_palette",
+            "permutations": {
+                "none": "trims/color_palettes/none"
+            }
+        }
+    ]
+}
