@@ -6,6 +6,7 @@
     "overrides": [
         {"predicate": {"trim_type": 0.00}, "model": "custom/template/leggings"},
         {"predicate": {"trim_type": 0.01}, "model": "custom/emerald/leggings"},
+        {"predicate": {"trim_type": 0.02}, "model": "custom/chromium/leggings"},
         {"predicate": {"trim_type": 0.02}, "model": "custom/chainmail/leggings"}
     ]
 }
