@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_sword"
+    },
+    "overrides": [
+		
+		{"predicate": {"custom_model_data":1}, "model": "kuroinu/sword/lightsword-orange"},
+	    {"predicate": {"custom_model_data":2}, "model": "kuroinu/sword/iron_sword"}
+    ]
+}
