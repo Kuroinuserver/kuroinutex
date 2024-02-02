@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "kuroinu/ingredient/relic_of_archer"
+  }
+}
