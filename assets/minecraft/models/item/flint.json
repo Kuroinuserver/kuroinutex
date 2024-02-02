@@ -59,7 +59,7 @@
 	    {"predicate": {"custom_model_data":53}, "model": "kuroinu/ore/ancient_luster_core"},
 	    {"predicate": {"custom_model_data":54}, "model": "kuroinu/ore/magic_element_crystal"},
 	    {"predicate": {"custom_model_data":55}, "model": "kuroinu/ore/silver_block"},
-	    {"predicate": {"custom_model_data":55}, "model": "kuroinu/ore/raw_star"},
+	    {"predicate": {"custom_model_data":56}, "model": "kuroinu/ore/raw_star"},
 		{"predicate": {"custom_model_data":101}, "model": "kuroinu/image/00"},
 		{"predicate": {"custom_model_data":102}, "model": "kuroinu/image/01"},
 		{"predicate": {"custom_model_data":103}, "model": "kuroinu/image/02"},
@@ -91,7 +91,8 @@
 	    {"predicate": {"custom_model_data":129}, "model": "kuroinu/image/44"},
 	    {"predicate": {"custom_model_data":130}, "model": "kuroinu/image/45"},
 	    
-	    {"predicate": {"custom_model_data":201}, "model": "kuroinu/food/"},
-        {"predicate": {"custom_model_data":202}, "model": "item/flint"}
+	    {"predicate": {"custom_model_data":201}, "model": "kuroinu/ingredient/boom_dust"},
+	    {"predicate": {"custom_model_data":202}, "model": "kuroinu/ingredient/relic_of_archer"},
+        {"predicate": {"custom_model_data":203}, "model": "item/flint"}
     ]
 }
