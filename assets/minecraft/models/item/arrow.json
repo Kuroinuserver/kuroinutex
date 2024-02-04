@@ -4,6 +4,13 @@
     "layer0": "minecraft:item/arrow"
   },
   "overrides": [
+      { "predicate": {"custom_model_data": 1 }, "model" : "kuroinu/gun/ammo_ak47"},
+      { "predicate": {"custom_model_data": 2 }, "model" : "kuroinu/gun/ammo_glock17"},
+      { "predicate": {"custom_model_data": 3 }, "model" : "kuroinu/gun/ammo_m16"},
+      { "predicate": {"custom_model_data": 4 }, "model" : "kuroinu/gun/ammo_m45"},
+      { "predicate": {"custom_model_data": 5 }, "model" : "kuroinu/gun/ammo_m870"},
+      { "predicate": {"custom_model_data": 6 }, "model" : "kuroinu/gun/ammo_revolver"},
+      { "predicate": {"custom_model_data": 7 }, "model" : "kuroinu/gun/ammo_vz61"},
       { "predicate": {"custom_model_data": 10 }, "model" : "kuroinu/tool/copper/copper_arrow"}
   ]
 }
