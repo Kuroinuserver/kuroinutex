@@ -14,15 +14,15 @@
     { "predicate": {"custom_model_data": 8 }, "model" : "kuroinu/gun/hoshino_gun"},
     { "predicate": {"custom_model_data": 9 }, "model" : "kuroinu/gun/ayane_gun"},
     { "predicate": {"custom_model_data": 10 }, "model" : "kuroinu/gun/nonomi_gun"},
-      { "predicate": {"custom_model_data": 11 }, "model" : "kuroinu/gun/nazo_gun"}
-      { "predicate": {"custom_model_data": 12 }, "model" : "kuroinu/gun/purple_gun"}
-      { "predicate": {"custom_model_data": 13 }, "model" : "kuroinu/gun/AK47"}
-      { "predicate": {"custom_model_data": 14 }, "model" : "kuroinu/gun/glock17"}
-      { "predicate": {"custom_model_data": 15 }, "model" : "kuroinu/gun/M16"}
-      { "predicate": {"custom_model_data": 16 }, "model" : "kuroinu/gun/M45"}
-      { "predicate": {"custom_model_data": 17 }, "model" : "kuroinu/gun/M870"}
-      { "predicate": {"custom_model_data": 18 }, "model" : "kuroinu/gun/revolver"}
-      { "predicate": {"custom_model_data": 19 }, "model" : "kuroinu/gun/Vz61"}
+      { "predicate": {"custom_model_data": 11 }, "model" : "kuroinu/gun/nazo_gun"},
+      { "predicate": {"custom_model_data": 12 }, "model" : "kuroinu/gun/purple_gun"},
+      { "predicate": {"custom_model_data": 13 }, "model" : "kuroinu/gun/AK47"},
+      { "predicate": {"custom_model_data": 14 }, "model" : "kuroinu/gun/glock17"},
+      { "predicate": {"custom_model_data": 15 }, "model" : "kuroinu/gun/M16"},
+      { "predicate": {"custom_model_data": 16 }, "model" : "kuroinu/gun/M45"},
+      { "predicate": {"custom_model_data": 17 }, "model" : "kuroinu/gun/M870"},
+      { "predicate": {"custom_model_data": 18 }, "model" : "kuroinu/gun/revolver"},
+      { "predicate": {"custom_model_data": 19 }, "model" : "kuroinu/gun/Vz61"},
       { "predicate": {"custom_model_data": 20 }, "model" : "item/iron_horse_armor"}
   ]
 }
