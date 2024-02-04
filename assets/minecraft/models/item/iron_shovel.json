@@ -11,6 +11,6 @@
 	    {"predicate": {"custom_model_data":4}, "model": "kuroinu/wand/heal_wand"},
 	    {"predicate": {"custom_model_data":5}, "model": "kuroinu/wand/ice_and_fire_wand"},
 	    {"predicate": {"custom_model_data":6}, "model": "kuroinu/wand/ice_wand"},
-	    {"predicate": {"custom_model_data":7}, "model": "kuroinu/wand/thunder_wand"},
+	    {"predicate": {"custom_model_data":7}, "model": "kuroinu/wand/thunder_wand"}
     ]
 }
