@@ -90,7 +90,6 @@
 	    {"predicate": {"custom_model_data":128}, "model": "kuroinu/image/43"},
 	    {"predicate": {"custom_model_data":129}, "model": "kuroinu/image/44"},
 	    {"predicate": {"custom_model_data":130}, "model": "kuroinu/image/45"},
-	    
 	    {"predicate": {"custom_model_data":201}, "model": "kuroinu/ingredient/boom_dust"},
 	    {"predicate": {"custom_model_data":202}, "model": "kuroinu/ingredient/relic_of_archer"},
 	    {"predicate": {"custom_model_data":203}, "model": "kuroinu/ingredient/black_gunpowder"},
