@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "layer0": "kuroinu/ore/silver_block"
+    "all": "kuroinu/ore/silver_block"
   }
 }
