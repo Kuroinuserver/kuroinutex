@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "kuroinu/equipment/signboard_survival"
+		"1": "kuroinu/equipment/signboard_survival/signboard_survival"
 	},
 	"elements": [
 		{
